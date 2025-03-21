@@ -1,7 +1,9 @@
-
+import TripCard from "@/components/Cards/TripCard";
 
 export default function Home() {
   return (
-   <h1>Temp Index</h1>
+    <div className="p-3">
+      <TripCard />
+    </div>
   );
 }

@@ -13,7 +13,7 @@ export default function RootLayout({
       <header>
         <NavBar />
       </header>
-      <main className="h-[calc(100%-80px)]">
+      <main className="h-[calc(100%-80px)] ">
         {children}
       </main>
     </main>

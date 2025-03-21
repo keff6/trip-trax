@@ -14,6 +14,9 @@ const config: Config = {
         ...colors,
         casper: '#A4C4CC',
         'ebony-clay': '#252e42',
+        juniper: '#738a8f',
+        'spring-rain': '#A4CCAB',
+        'limed-spruce': '#3e5358',
       }
     },
   },
